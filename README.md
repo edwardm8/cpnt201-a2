@@ -1,4 +1,4 @@
-# Best Fast Food Calgary
+# Best Fast Food!
 
 Rating fast food in calgary
 
