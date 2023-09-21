@@ -4,7 +4,7 @@ Rating fast food in calgary
 
 ## Task List
 - [x] Eat fast food
-- [x] Dis
+- [x] Discuss with others
 - [x] Rate food !
 
 [Mcdonalds](https://www.mcdonalds.com/ca/en-ca.html)
