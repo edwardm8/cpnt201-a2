@@ -8,3 +8,5 @@ Rating fast food in calgary
 - [x] Rate
 
 [Mcdonalds](https://www.mcdonalds.com/ca/en-ca.html)
+
+Some of the best places are *Mcdonald's* for ***tier 1***, *KFC* ***tier 2*** and *Wendy's* ***tier 3***.
