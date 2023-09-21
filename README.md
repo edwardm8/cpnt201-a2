@@ -3,7 +3,7 @@
 Rating fast food in Calgary!!!
 
 ## Task List
-- [x] Eat fast food burger
+- [x] Eat the fast food
 - [x] Discuss with others
 - [x] Rate food !
 
